@@ -21,7 +21,7 @@ class AppTheme {
       primaryColor: primaryBlue,
 
       // El fondo predeterminado ahora es neutro (para las pantallas comunes)
-      //scaffoldBackgroundColor: const Color(0xFFFFFFFF),
+      scaffoldBackgroundColor: const Color(0xFFFFFFFF),
       colorScheme: const ColorScheme.light(
         primary: primaryBlue,
         secondary: secondaryBlue,
