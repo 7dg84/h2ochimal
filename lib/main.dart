@@ -7,6 +7,7 @@ void main() {
   usePathUrlStrategy();
   runApp(const MyApp());
 }
+// alex
 
 // comentaro de erik xdxd
 class MyApp extends StatelessWidget {
